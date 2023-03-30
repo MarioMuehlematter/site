@@ -34,21 +34,17 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages/about
-  - _pages/404
+  - _pages/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
+exclude:
+    - _pages/category-archive.md
+    - _pages/tag-archive.md
+    - _pages/year-archive.md
+    
+    
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
