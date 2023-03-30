@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Mario Mühlematter"
-  avatar : 
+  avatar : "/assets/images/Portrait.jpg"
   bio    : "biography"
   links:
   # - label: "Website"
