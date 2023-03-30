@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Mario Mühlematter"
   avatar : "/assets/images/20220916_154808597_iOS.heic"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -77,10 +77,10 @@ author:
 
 
 footer:
-  links:
+   links:
    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/MarioMuehlematter/"
+     icon: "fab fa-fw fa-github"
+     url: "https://github.com/MarioMuehlematter/"
    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mario-muehlematter/"
